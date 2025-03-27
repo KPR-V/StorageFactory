@@ -1,0 +1,38 @@
+# Dependencies
+node_modules
+ui/node_modules
+
+# Environment variables
+.env
+.env*.local
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Foundry
+cache/
+out/
+artifacts/
+broadcast/
+forge-coverage/
+lcov.info
+
+# misc
+.DS_Store
+*.pem
+coverage/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
