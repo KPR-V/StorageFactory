@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KPR-V/storage-factory">
+  <a href="https://github.com/KPR-V/StorageFactory">
     <img src="ui/public/logo.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -22,9 +22,9 @@
   </p>
   
   <p align="center">
-    <a href="https://github.com/KPR-V/storage-factory/issues/new?labels=bug">🐛 Report Bug</a>
+    <a href="https://github.com/KPR-V/StorageFactory/issues/new?labels=bug">🐛 Report Bug</a>
     ·
-    <a href="https://github.com/KPR-V/storage-factory/issues/new?labels=enhancement">✨ Request Feature</a>
+    <a href="https://github.com/KPR-V/StorageFactory/issues/new?labels=enhancement">✨ Request Feature</a>
   </p>
 </div>
 
@@ -48,8 +48,8 @@
 
 1. **Clone the repo**:
     ```sh
-    git clone https://github.com/KPR-V/storage-factory.git
-    cd storage-factory
+    git clone https://github.com/KPR-V/StorageFactory.git
+    cd StorageFactory
     ```
 
 2. **Install Dependencies and Run**:
@@ -116,13 +116,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more details.
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/KPR-V/storage-factory.svg?style=for-the-badge
-[contributors-url]: https://github.com/KPR-V/storage-factory/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KPR-V/storage-factory.svg?style=for-the-badge
-[forks-url]: https://github.com/KPR-V/storage-factory/network/members
-[stars-shield]: https://img.shields.io/github/stars/KPR-V/storage-factory.svg?style=for-the-badge
-[stars-url]: https://github.com/KPR-V/storage-factory/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KPR-V/storage-factory.svg?style=for-the-badge
-[issues-url]: https://github.com/KPR-V/storage-factory/issues
-[license-shield]: https://img.shields.io/github/license/KPR-V/storage-factory.svg?style=for-the-badge
-[license-url]: https://github.com/KPR-V/storage-factory/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/KPR-V/StorageFactory.svg?style=for-the-badge
+[contributors-url]: https://github.com/KPR-V/StorageFactory/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/KPR-V/StorageFactory.svg?style=for-the-badge
+[forks-url]: https://github.com/KPR-V/StorageFactory/network/members
+[stars-shield]: https://img.shields.io/github/stars/KPR-V/StorageFactory.svg?style=for-the-badge
+[stars-url]: https://github.com/KPR-V/StorageFactory/stargazers
+[issues-shield]: https://img.shields.io/github/issues/KPR-V/StorageFactory.svg?style=for-the-badge
+[issues-url]: https://github.com/KPR-V/StorageFactory/issues
+[license-shield]: https://img.shields.io/github/license/KPR-V/StorageFactory.svg?style=for-the-badge
+[license-url]: https://github.com/KPR-V/StorageFactory/blob/main/LICENSE.txt
